@@ -39,10 +39,26 @@
               "heading": "Quick links",
               "menu": "footer"
             }
+          },
+          "50948b7b-071a-4fcd-b0bf-26c46a79c8e0": {
+            "type": "link_list",
+            "settings": {
+              "heading": "Quick links",
+              "menu": "footer"
+            }
+          },
+          "589c9006-1eaf-4df4-b748-0852807a6a46": {
+            "type": "link_list",
+            "settings": {
+              "heading": "Quick links",
+              "menu": "footer"
+            }
           }
         },
         "block_order": [
-          "footer-0"
+          "footer-0",
+          "50948b7b-071a-4fcd-b0bf-26c46a79c8e0",
+          "589c9006-1eaf-4df4-b748-0852807a6a46"
         ],
         "settings": {
           "color_scheme": "background-1",

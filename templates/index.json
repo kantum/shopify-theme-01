@@ -26,7 +26,6 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/bruce-mars-wBuPCQiweuA-unsplash.jpg",
         "desktop_text_box_position": "flex-end",
         "color_scheme": "background-1",
         "stack_images_on_mobile": true,
@@ -120,12 +119,52 @@
         "desktop_layout": "left",
         "mobile_layout": "collage"
       }
+    },
+    "16266217064e83a6ac": {
+      "type": "image-banner",
+      "blocks": {
+        "16266217064e83a6ac-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image banner"
+          }
+        },
+        "16266217064e83a6ac-1": {
+          "type": "text",
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template."
+          }
+        },
+        "16266217064e83a6ac-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "16266217064e83a6ac-0",
+        "16266217064e83a6ac-1",
+        "16266217064e83a6ac-2"
+      ],
+      "settings": {
+        "desktop_text_box_position": "center",
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": true,
+        "adapt_height_first_image": false
+      }
     }
   },
   "order": [
     "image_banner",
     "featured_products",
     "image_text",
-    "1626528495c9206cb8"
+    "1626528495c9206cb8",
+    "16266217064e83a6ac"
   ]
 }
